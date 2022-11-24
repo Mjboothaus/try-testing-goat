@@ -1,0 +1,4 @@
+selenium
+django
+pytest
+flake8
